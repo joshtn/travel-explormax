@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpeg",
+    "alt": "Roma, Italy",
+    "name": "Roma, Italy",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpeg",
+    "alt": "Taipei, Taiwan",
+    "name": "Taipei, Taiwan",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpeg",
+    "alt": "Paris, France",
+    "name": "Paris, France",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpeg",
+    "alt": "Thera, Greece",
+    "name": "Thera, Greece",
+    "button": "View Destination"
+  }
+]
